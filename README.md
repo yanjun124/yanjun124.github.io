@@ -1,5 +1,5 @@
 # ARTIFACT Beta
 
-公开访问入口： https://yanjun124.github.io/
+Public website: https://yanjun124.github.io/
 
-本仓库仅包含用于 GitHub Pages 公开发布的静态网页文件。
+This deployment uses the static HTML, JavaScript and CSS captured from the ARTIFACT Tencent Cloud site on 2026-09-11. Only public frontend files are included. Project data continues to depend on the original CloudBase service.
